@@ -2,10 +2,6 @@
 
 A web application that allows users to obtain a list of flights and current flights of a virtual airline using the Newsky.app API.
 
-### Demo: 
-* Ongoing flights: https://pawelnosalski.pl/paffsair/#/ongoing
-* List of flights: https://pawelnosalski.pl/paffsair/#/flights
-
 ## Available Scripts
 
 In the project directory, you can run:
